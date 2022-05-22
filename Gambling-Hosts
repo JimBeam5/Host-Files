@@ -4,6 +4,7 @@
 # Gambling sites that aren't currently blocked from other lists
 #
 # ===============================================================
+
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -20,5 +21,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # Sites that I've added to the list
+
 0.0.0.0 pinkcasino.co.uk
 0.0.0.0 facebook.com
