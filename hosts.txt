@@ -1,7 +1,6 @@
-
-# JimBeam5 Gambling Hosts
+# JimBeam5 Block List
 #
-# Gambling sites that aren't currently blocked from other lists
+# Sites that I don't want on my home network
 #
 # ===============================================================
 # Sites that I've added to the list
