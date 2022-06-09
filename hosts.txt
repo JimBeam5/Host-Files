@@ -1,0 +1,17 @@
+# Web block list for my home network
+#
+# ===============================================================
+# Sites that I've added to the list
+
+# IE Snare to stop gambling sites tracking my matched betting activity
+
+0.0.0.0 iesnare.com
+0.0.0.0 iesnare.co.uk
+0.0.0.0 iovation.com
+0.0.0.0 iovation.co.uk
+
+# Gambling Stuff
+0.0.0.0 pinkcasino.co.uk
+
+# Ad Blocking
+0.0.0.0 toots-a.akamaihd.net
