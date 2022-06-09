@@ -13,5 +13,13 @@
 # Gambling Stuff
 0.0.0.0 pinkcasino.co.uk
 #
-# Ad Blocking
+# TV Catch Up Ad Blocking
 0.0.0.0 toots-a.akamaihd.net
+0.0.0.0 cdn.ss.anno.channel4.com
+0.0.0.0 webstats.channel4.com
+0.0.0.0 c5ads.ott.skymedia.co.uk
+0.0.0.0 p.videologygroup.com
+0.0.0.0 cdn.http.anno.channel4.com
+0.0.0.0 securecdn.videologygroup.com
+0.0.0.0 monitor.channel4.com
+0.0.0.0 dsa.moatads.com
