@@ -23,3 +23,10 @@
 0.0.0.0 securecdn.videologygroup.com
 0.0.0.0 monitor.channel4.com
 0.0.0.0 dsa.moatads.com
+0.0.0.0 c4ads.2cnt.net
+0.0.0.0 ads-pres.channel4.com
+0.0.0.0 akamaiedge.net
+0.0.0.0 akamai.net
+0.0.0.0 2a7e9.v.fwmrm.net
+0.0.0.0 2356e.v.fwmrm.net
+0.0.0.0 trk-euwest.tidaltv.com
