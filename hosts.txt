@@ -5,31 +5,31 @@
 #
 # IE Snare to stop gambling sites tracking my matched betting activity
 #
-0.0.0.0 iesnare.com
-0.0.0.0 iesnare.co.uk
-0.0.0.0 iovation.com
-0.0.0.0 iovation.co.uk
+127.0.0.1 iesnare.com
+127.0.0.1 iesnare.co.uk
+127.0.0.1 iovation.com
+127.0.0.1 iovation.co.uk
 #
 # Gambling Stuff
-0.0.0.0 pinkcasino.co.uk
+127.0.0.1 pinkcasino.co.uk
 #
 # TV Catch Up Ad Blocking
-0.0.0.0 toots-a.akamaihd.net
-0.0.0.0 cdn.ss.anno.channel4.com
-0.0.0.0 webstats.channel4.com
-0.0.0.0 c5ads.ott.skymedia.co.uk
-0.0.0.0 p.videologygroup.com
-0.0.0.0 cdn.http.anno.channel4.com
-0.0.0.0 securecdn.videologygroup.com
-0.0.0.0 monitor.channel4.com
-0.0.0.0 dsa.moatads.com
-0.0.0.0 c4ads.2cnt.net
-0.0.0.0 ads-pres.channel4.com
-0.0.0.0 akamaiedge.net
-0.0.0.0 akamai.net
-0.0.0.0 2a7e9.v.fwmrm.net
-0.0.0.0 2356e.v.fwmrm.net
-0.0.0.0 trk-euwest.tidaltv.com
-0.0.0.0 recommendations.prd.user.itv.com
-0.0.0.0 ar.prd.content.itv.com
-0.0.0.0 itvdotcom.2cnt.net
+127.0.0.1 toots-a.akamaihd.net
+127.0.0.1 cdn.ss.anno.channel4.com
+127.0.0.1 webstats.channel4.com
+127.0.0.1 c5ads.ott.skymedia.co.uk
+127.0.0.1 p.videologygroup.com
+127.0.0.1 cdn.http.anno.channel4.com
+127.0.0.1 securecdn.videologygroup.com
+127.0.0.1 monitor.channel4.com
+127.0.0.1 dsa.moatads.com
+127.0.0.1 c4ads.2cnt.net
+127.0.0.1 ads-pres.channel4.com
+127.0.0.1 akamaiedge.net
+127.0.0.1 akamai.net
+127.0.0.1 2a7e9.v.fwmrm.net
+127.0.0.1 2356e.v.fwmrm.net
+127.0.0.1 trk-euwest.tidaltv.com
+127.0.0.1 recommendations.prd.user.itv.com
+127.0.0.1 ar.prd.content.itv.com
+127.0.0.1 itvdotcom.2cnt.net
