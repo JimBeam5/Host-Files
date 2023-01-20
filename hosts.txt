@@ -32,3 +32,4 @@
 0.0.0.0 trk-euwest.tidaltv.com
 0.0.0.0 recommendations.prd.user.itv.com
 0.0.0.0 ar.prd.content.itv.com
+0.0.0.0 itvdotcom.2cnt.net
